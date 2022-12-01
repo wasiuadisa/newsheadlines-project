@@ -142,6 +142,13 @@ newsheadlines/routes/api.php
 ```
 
 
+## Tutorial post
+
+> This application is built from the tutorial on Medium. You'll find the tutorial at:
+```
+https://medium.com/@aowasiu/news-api-for-novices-volume-1-how-to-build-a-simple-rest-api-in-laravel-9-with-sanctum-d0e431a8c33a?source=friends_link&sk=2f3d91c7e19d869ee78744ef8a3d5765
+```
+
 ## Built With
 
 * [Laravel 9](https://laravel.com/9.x/docs/) - The web framework used.
